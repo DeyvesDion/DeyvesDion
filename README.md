@@ -2,20 +2,20 @@
 
 <br/>
 
-<h1 align="center">Bonjour 👋, je suis De Yves DION</h1>
+<h1 align="center">Bonjour 👋🏾, je suis De Yves DION</h1>
 <h3 align="center">Développeur Front Javascript ( VueJs - Gridsome - NuxtJs ), WordPress</h3>
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=deyvesdion&label=Profile%20views&color=0e75b6&style=flat" alt="deyvesdion" /> </p>
 
 <br/>
 
-## 🏆 <strong>Mes trophées:</strong>
+## 🏆 <strong>Mes Trophées 🔥 💪🏿: </strong>
 <br/>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=deyvesdion" alt=" deyvesdion" /></a> </p>
 
 <br/>
 
-## 🙋‍♂️ A propos de moi
+## 🙋🏿‍♂️ A propos de moi
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 - 👨🏿‍💻 Tous mes projets sont disponibles sur [https://deyvesdion.fr](https://deyvesdion.fr)
 
-- 📫 Commentez-moi **deyvesdion@gmail.com**
+- 📫 Contactez-moi **deyvesdion@gmail.com**
 
 - ⚡ Autres informations **Je mange toujours des céréales**
 
@@ -41,7 +41,7 @@
 
 <br/>
 
-## 👨🏿📊 <strong>Mes statistiques :</strong>
+## 👨🏿📊 <strong>Mes statistiques 🔥 :</strong>
 
 <br/>
 <p align="center">
@@ -64,14 +64,14 @@
 <br/>
 <br/>
 
-## Conntacter moi:
+## Contacter moi:
 <p align="left">
 
 <a href ="https://www.linkedin.com/in/de-yves-dion/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
-## ❤ Vues et abonnées
+## ❤️ Vues et abonnées
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DeyvesDion">
 </a>
