@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🏆 <strong>Mes Trophées 🔥 💪🏿: </strong>
+## 🏆 <strong>Mes Trophées 🔥 💪: </strong>
 <br/>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=deyvesdion" alt=" deyvesdion" /></a> </p>
@@ -45,7 +45,7 @@
 
 <br/>
 <p align="center">
-    <a href="https://github.com/deyvesdion/">
+    <a href="https://github.com/deyvesdion/github-readme-stats">
         <img alt="deyvesdion" src="https://github-readme-streak-stats.herokuapp.com/?user=deyvesdion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
