@@ -19,11 +19,11 @@
 
 <br/>
 
-- 🔭 Je travaille en se moment sur [Vendredi Canada](https://deyvesdion.fr/vendredi)
+- 🔭 Je travaille en se moment sur [Vendredi Canada](https://deyvesdion.fr/vendredi) - Indisponible ppour le moment -
 
 - 🌱 En ce moment j'apprends **le FrameWork VueJs.**
 
-- 👨🏿‍💻 Tous mes projets sont disponibles sur [https://deyvesdion.fr](https://deyvesdion.fr)
+- 👨🏿‍💻 Tous mes projets sont disponibles sur [https://deyvesdion-portfolio.netlify.app/](https://deyvesdion-portfolio.netlify.app/)
 
 - 📫 Contactez-moi **deyvesdion@gmail.com**
 
