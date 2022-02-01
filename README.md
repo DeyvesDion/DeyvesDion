@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🔭 Je travaille en se moment sur [Vendredi Canada](https://deyvesdion.fr/vendredi) - Indisponible ppour le moment -
+- 🔭 Je travaille en se moment sur [Vendredi Canada](https://deyvesdion.fr/vendredi) - Indisponible pour le moment -
 
 - 🌱 En ce moment j'apprends **le FrameWork VueJs.**
 
