@@ -3,7 +3,7 @@
 <br/>
 
 <h1 align="center">Bonjour 👋, je suis De Yves DION</h1>
-<h3 align="center">Développeur Front Javascript ( VueJs - Gridsome - NuxtJs ), WordPress</h3>
+<h3 align="center">Développeur Front Javascript ( VueJs - Gridsome - NuxtJs - Angular ), WordPress</h3>
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=deyvesdion&label=Profile%20views&color=0e75b6&style=flat" alt="deyvesdion" /> </p>
 
 <br/>
