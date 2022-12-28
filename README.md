@@ -59,12 +59,12 @@
 <br/>
 <br/>
 
-## Contacter moi:
-<p align="left">
+<!-- ## Contacter moi: -->
+<!-- <p align="left">
 
 <a href ="https://www.linkedin.com/in/de-yves-dion/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-</p>
+</p> -->
 
 ## ❤️ Vues et abonnées
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
