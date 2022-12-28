@@ -19,16 +19,10 @@
 
 <br/>
 
-- 🔭 Je travaille en se moment sur [Vendredi Canada](https://deyvesdion.fr/vendredi) - Indisponible pour le moment -
 
 - 🌱 En ce moment j'apprends **le FrameWork VueJs.**
 
-- 👨🏿‍💻 Tous mes projets sont disponibles sur [https://deyvesdion-portfolio.netlify.app/](https://deyvesdion-portfolio.netlify.app/)
-
 - 📫 Contactez-moi **deyvesdion@gmail.com**
-
-- ⚡ Autres informations **Je mange toujours des céréales**
-
 
 <br/>
 
